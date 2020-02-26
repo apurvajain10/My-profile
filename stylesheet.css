@@ -3,21 +3,7 @@ body{
 }
 .about-html{
      width: 100rem;
-}.nav-list{width: 250rem;
-height: 100vh;
-background-color: #d7d4ed;
-position: fixed;
-top: 0;
-right: -26rem;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-z-index: 1500;
-transition: all 650ms ease-in-out;
-font-family: "blackletter",Helvetica,Arial,sans-serif;
-    }
-    .text{
+}   .text{
         width: max-content;
         background-size: cover;
         font-size: 1.8rem;
@@ -60,6 +46,7 @@ margin-left: 30rem;
     color: rgb(40, 148, 143);
 }
 .nav-brand{
+    width: 100%;
     background: linear-gradient(135deg, rgba(49, 24,131,0.9) 0%, rgba(72,56,149,0.8) 100%), url("img-bg.webp") center no-repeat;
     background-size: cover;
     font-size: 1.8rem;
@@ -113,7 +100,7 @@ section{
     padding: 10rem, 0;
     background-color: #fff;
 }
-.courses, th, td{
+.courses,th,td{
     margin-left: 5rem;
     border: 1px solid rgb(77, 53, 100);
     align-content: center;
@@ -154,7 +141,17 @@ div.table table.about-html td.tag {background: rgb(8, 8, 8);
     margin-top: -2rem;
    
   }
-
+.heading_project{
+    font-size: 3.5rem;
+    letter-spacing: 3px;
+    color:rgb(12, 12, 12);
+    position: relative;
+    margin-right: -3px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;}
 .heading, .data_head{
     font-size: 3.5rem;
     letter-spacing: 3px;
@@ -167,7 +164,7 @@ div.table table.about-html td.tag {background: rgb(8, 8, 8);
     font-family: cursive;
     font-style: italic;
     }
-   tr,th, td{
+    .tab_element{
        background:linear-gradient(135deg, rgba(13, 13, 14, 0.9) 0%, rgba(74, 66, 112, 0.8) 100%);
    } 
 .card-wrapper{
@@ -180,7 +177,7 @@ div.table table.about-html td.tag {background: rgb(8, 8, 8);
     display: flex;
     flex-direction: row;
 }
-.heading::after{
+.heading::after, .heading_project::after {
     content: "";
     width: 20rem;
     height: .8rem;
