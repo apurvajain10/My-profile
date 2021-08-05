@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Apurva Jain",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/1kOwmhtP7-aSrN9r51chkaI5_rQXu-5H7/view?usp=sharing",
+		"email": "2019kucp1098@iiitkota.ac.in",
+		"website": "http://apurvajain.me",
+		"summary": "I am a pre-final year student at Indian Institute of Information Technology, Kota, pursuing B.Tech in Computer Science and Engineering.",
+		"location": {
+			"city": "Bhilwara",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "APURVAJ36245959",
+				"url": "https://twitter.com/APURVAJ36245959"
+			},
+			{
+				"network": "Github",
+				"username": "apurvajain10",
+				"url": "https://github.com/apurvajain10"
+			},
+			{
+				"network": "linkedin",
+				"username": "Apurva Jain",
+				"url": "https://www.linkedin.com/in/apurvajain7"
+			},
+			{
+				"network": "Instagram",
+				"username": "apurvajain07",
+				"url": "https://www.instagram.com/apurvajain07"
+			}
+		]
+	},
+	"volunteer": [{
+		"organization": "Quills'n'Stills",
+		"position": "Creative lead and Art director",
+		"summary": "Official magazine of IIIT Kota"
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information Technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2019-05-08",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["C/C++", "Python", "Java", "HTML", "CSS", "Javascript", "PHP", "MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Vollyball", "Badminton"]
+	}]
+}
