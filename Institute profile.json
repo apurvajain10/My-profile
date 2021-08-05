@@ -37,7 +37,13 @@
 		"organization": "Quills'n'Stills",
 		"position": "Creative lead and Art director",
 		"summary": "Official magazine of IIIT Kota"
-	}],
+	},
+	{
+		"organization": "ADMAT'21",
+		"position": "Student volunteer",
+		"summary": "MATLAB workshop organized by IIIT Kota in collaboration with Mathworks."
+	}
+],
 	"education": [{
 		"institution": "Indian Institute of Information Technology, Kota",
 		"area": "Engineering",
