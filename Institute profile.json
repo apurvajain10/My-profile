@@ -31,7 +31,7 @@
 				"username": "apurvajain07",
 				"url": "https://www.instagram.com/apurvajain07"
 			}
-		],
+		]},
 	"volunteer": [{
 		"organization": "Quills'n'Stills",
 		"position": "Creative lead and Art director",
@@ -42,14 +42,13 @@
 		"position": "Student volunteer",
 		"summary": "MATLAB workshop organized by IIIT Kota in collaboration with Mathworks."
 	}
-],
+     ],
 	"education": [{
 		"institution": "Indian Institute of Information Technology, Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology",
-		"courses": [
-			"Computer Science & Engineering"
-		]
+		"courses": "Computer Science & Engineering"
+		
 	}],
 	"skills": [{
 		"level": "Master",
@@ -59,5 +58,4 @@
 		"name": "Sports",
 		"keywords": ["Vollyball", "Badminton"]
 	}]
-}
 }
