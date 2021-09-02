@@ -11,7 +11,8 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [{
+		"profiles": [
+			{
 				"network": "Twitter",
 				"username": "APURVAJ36245959",
 				"url": "https://twitter.com/APURVAJ36245959"
@@ -31,31 +32,36 @@
 				"username": "apurvajain07",
 				"url": "https://www.instagram.com/apurvajain07"
 			}
-		]},
-	"volunteer": [{
-		"organization": "Quills'n'Stills",
-		"position": "Creative lead and Art director",
-		"summary": "Official magazine of IIIT Kota"
+		]
 	},
-	{
-		"organization": "ADMAT'21",
-		"position": "Student volunteer",
-		"summary": "MATLAB workshop organized by IIIT Kota in collaboration with Mathworks."
-	}
-     ],
-	"education": [{
-		"institution": "Indian Institute of Information Technology, Kota",
-		"area": "Engineering",
-		"studyType": "Bachelor of Technology",
-		"courses": "Computer Science & Engineering"
-		
-	}],
-	"skills": [{
-		"level": "Master",
-		"keywords": ["C/C++", "Python", "Java", "HTML", "CSS", "Javascript", "PHP", "MySQL"]
-	}],
-	"interests": [{
-		"name": "Sports",
-		"keywords": ["Vollyball", "Badminton"]
-	}]
+	
+	"volunteer": [
+		{
+			"organization": "Quills'n'Stills",
+			"position": "Creative lead and Art director",
+			"summary": "Official magazine of IIIT Kota"
+		}
+	],
+	"education": [
+		{
+			"institution": "Indian Institute of Information Technology, Kota",
+			"area": "Engineering",
+			"studyType": "Bachelor of Technology",
+			"startDate": "2019-05-08",
+			"courses": ["Computer Science & Engineering"
+			]
+		}
+	],
+	"skills": [
+		{
+			"level": "Master",
+			"keywords": [ "C/C++", "Python", "Java", "HTML", "CSS", "Javascript", "PHP", "MySQL" ]
+		}
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": [ "Vollyball", "Badminton" ]
+		}
+	]
 }
